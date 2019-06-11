@@ -23,6 +23,6 @@ public class CadastroActivity extends AppCompatActivity {
         Intent intent = new Intent(this, CadastroPessoaActivity.class);
         startActivity(intent);
         finish();
-        //TESTEEEEE
+
     }
 }
